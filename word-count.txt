@@ -1,0 +1,4 @@
+hi
+this is input file for word count program in python pandas
+to demonstrate how word count program can be written in python pandas
+Pandas is a very useful Python library for data manipulation and analysis. It provides high-performant, easy-to-use data structures and data analysis tools for working with structured data, including tabular, time-series, and matrix data. The core data structure in Pandas is the Dataframe which can be thought as tables in a relational database where each column can have a different data type. Pandas also has a one-dimensional data structure called Series, which can be thought of as a single column with row labels of a Dataframe.
